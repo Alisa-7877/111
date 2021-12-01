@@ -35,6 +35,7 @@ public class Main {
             if (result != 0) {
                 System.out.println("插入成功！！！");
                 System.out.println("test");
+                System.out.println("111");
             }
             rs.close();
             st.close();
