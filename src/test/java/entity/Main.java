@@ -34,6 +34,7 @@ public class Main {
 
             if (result != 0) {
                 System.out.println("插入成功！！！");
+                System.out.println("test");
             }
             rs.close();
             st.close();
